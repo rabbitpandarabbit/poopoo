@@ -1,0 +1,43 @@
+body {
+    background-color:rgb(230, 174, 244);
+    color:white;
+}
+
+#a {
+    width:600px;
+    background-color: blue;
+    height:30px;
+    text-align:center;
+    padding-top:5px;
+}
+#b {
+    width:600px;
+    background-color: blue;
+    height:30px;
+    text-align:center;
+    padding-top:5px;
+}
+#c {
+    width:600px;
+    background-color: blue;
+    height:30px;
+    text-align:center;
+    padding-top:5px;
+}
+#d {
+    width:600px;
+    background-color: blue;
+    height:30px;
+    text-align:center;
+    padding-top:5px;
+}
+#camera {
+    width:350px;
+    height:300px;
+    border: 2px dashed black;
+}
+#result {
+    width:350px;
+    height:300px;
+    border: 2px dashed black;
+}
